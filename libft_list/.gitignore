@@ -1,0 +1,14 @@
+**/*.out
+**/*temp*
+**/*.swp
+**/*.a
+ft_putchar.c
+ft_main.c
+norm_check_all.sh
+.vscode
+**/*.o
+**/makefile
+**/ft_main.c
+**/aa*
+a.out.dSYM
+.DS_Store
